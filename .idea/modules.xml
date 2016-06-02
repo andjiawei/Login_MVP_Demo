@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlogCodes.iml" filepath="$PROJECT_DIR$/BlogCodes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/blogcodes/blogcodes.iml" filepath="$PROJECT_DIR$/blogcodes/blogcodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login_MVP_Demo.iml" filepath="$PROJECT_DIR$/Login_MVP_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymvp/mymvp.iml" filepath="$PROJECT_DIR$/mymvp/mymvp.iml" />
     </modules>
   </component>
 </project>
